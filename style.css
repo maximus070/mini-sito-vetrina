@@ -1,0 +1,32 @@
+body
+{
+margin:0;  
+}
+
+nav
+{
+ background-color:#bb9457;
+}
+nav>img {
+  height:50px;
+  margin:3px;
+}
+
+h1
+{
+  text-align: center;
+}
+.container {
+  display:flex;
+}
+.card 
+{
+  border:1px solid gray;
+  border-radius:5px;
+  
+}
+.card img
+{
+  width:60%
+
+}
